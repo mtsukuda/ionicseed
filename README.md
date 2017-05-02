@@ -11,8 +11,6 @@ npm install
 npm start         # start the application (ionic serve)
 ```
 
-Running as root? You probably shouldn't be. If you need to: `npm run postinstall` before `npm start`. [#111](https://github.com/lathonez/clicker/issues/111) for more info.
-
 ## Run Unit Tests
 ```bash
 npm test          # run unit tests
@@ -32,7 +30,7 @@ PRs are always welcome.
 
 ## Acks
 
-* This started out as a fork of [Angular 2 Seed](https://github.com/lathonez/clicker) and would not be possible without it
+* This started out as a fork of [lathonez/clicker](https://github.com/lathonez/clicker) and would not be possible without it
 * [Everyone else](https://github.com/mtsukuda/ionicseed/graphs/contributors) for the advice, help, PRs etc
 
 ## Changelog
