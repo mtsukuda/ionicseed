@@ -1,7 +1,7 @@
 import { ComponentFixture, async }    from '@angular/core/testing';
 import { TestUtils }                  from '../../../test';
 import { ClickerList }                from './clickerList';
-import { ClickerButton, ClickerForm } from '../../components';
+import { ClickerButton, ClickerForm } from '../../../components';
 
 let fixture: ComponentFixture<ClickerList> = null;
 let instance: any = null;

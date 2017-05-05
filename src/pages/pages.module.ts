@@ -1,6 +1,6 @@
 import { NgModule }         from '@angular/core';
 import { IonicModule }      from 'ionic-angular';
-import { ComponentsModule } from '../../app/components';
+import { ComponentsModule } from '../../components';
 import { ClickerList }      from './clickerList/clickerList';
 import { Page2 }            from './page2/page2';
 
