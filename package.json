@@ -4,6 +4,8 @@
   "homepage": "https://github.com/mtsukuda/ionicseed",
   "private": true,
   "scripts": {
+    "generate": "node_modules/.bin/ionic generate",
+    "g": "node_modules/.bin/ionic generate",
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
     "ionic:build": "ionic-app-scripts build",
@@ -40,8 +42,10 @@
     "zone.js": "0.8.9"
   },
   "devDependencies": {
+    "ionic": "3.0.0-rc.1",
+    "@ionic/cli-plugin-ionic-angular": "1.0.0-rc.1",
     "@angular/cli": "1.0.0",
-    "@ionic/app-scripts": "1.3.0",
+    "@ionic/app-scripts": "1.3.7",
     "@types/jasmine": "2.5.41",
     "@types/node": "7.0.4",
     "codecov": "1.0.1",
