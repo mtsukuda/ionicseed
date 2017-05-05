@@ -5,7 +5,7 @@
 You need to be running [the latest node LTS](https://nodejs.org/en/download/) or newer
 
 ```bash
-git clone depth=1 https://github.com/mtsukuda/ionicseed.git <your-project-name>
+git clone --depth=1 https://github.com/mtsukuda/ionicseed.git <your-project-name>
 cd <your-project-name>
 npm install
 npm start         # start the application (ionic serve)
@@ -13,7 +13,7 @@ npm start         # start the application (ionic serve)
 
 ## Run Unit Tests
 ```bash
-npm test          # run unit tests
+npm run test          # run unit tests
 ```
 
 ## Run E2E
