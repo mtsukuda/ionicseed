@@ -1,6 +1,5 @@
 {
   "name": "ionicseed",
   "app_id": "9e298e69",
-  "v2": true,
-  "typescript": true
+  "type": "ionic-angular"
 }
