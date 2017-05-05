@@ -4,8 +4,8 @@ import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { StatusBar }                                from '@ionic-native/status-bar';
 import { SplashScreen }                             from '@ionic-native/splash-screen';
 import { ClickerApp }                               from './app.component';
-import { ClickerList, PagesModule, Page2 }          from './pages';
-import { ClickersService, StorageService }          from './services';
+import { ClickerList, PagesModule, Page2 }          from '../pages';
+import { ClickersService, StorageService }          from '../services';
 
 @NgModule({
   declarations: [

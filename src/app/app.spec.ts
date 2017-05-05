@@ -1,6 +1,6 @@
 import { ClickerApp }                      from './app.component';
 import { MenuMock, NavMock, PlatformMock, SplashMock, StatusMock } from '../mocks';
-import { Page2 }                           from './pages';
+import { Page2 }                           from '../pages';
 
 let instance: ClickerApp = null;
 

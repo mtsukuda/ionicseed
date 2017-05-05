@@ -2,7 +2,7 @@ import { Component, ViewChild }          from '@angular/core';
 import { Platform, MenuController, Nav } from 'ionic-angular';
 import { StatusBar }                     from '@ionic-native/status-bar';
 import { SplashScreen }                  from '@ionic-native/splash-screen';
-import { ClickerList, Page2 }            from './pages';
+import { ClickerList, Page2 }            from '../pages';
 
 @Component({
   templateUrl: './app.html',
