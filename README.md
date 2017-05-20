@@ -39,6 +39,6 @@ See the changelog [here](https://github.com/mtsukuda/ionicseed/blob/master/CHANG
 
 ## Updated for:
 
-* **@angular/*:** 4.0.0
-* **@angular/cli:** 1.0.0
-* **@ionic-angular:** 3.0.1
+* **@angular/*:** 4.1.0
+* **@angular/cli:** 1.0.4
+* **@ionic-angular:** 3.2.1
